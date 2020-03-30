@@ -9,3 +9,7 @@ body{
     margin-right: auto;
     width: 50%;
 }
+table th,td{
+    border:1px solid black;
+    padding:15px;
+}
