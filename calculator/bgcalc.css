@@ -1,0 +1,9 @@
+body
+{
+	background-color:yellow;
+	margin-left:700px;
+	margin-top:300px;
+}
+input[type="button"]{
+	background-color:skyblue;
+}
